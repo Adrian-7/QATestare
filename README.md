@@ -1,0 +1,2 @@
+# QATestare
+repozitor testare
